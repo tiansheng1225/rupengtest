@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+D:\workplaceRPWXM\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2595457972.index
+1756570259.index
+862333760.index
+1176511516.index
+1167279296.index
+3605914713.index
+2002853158.index
